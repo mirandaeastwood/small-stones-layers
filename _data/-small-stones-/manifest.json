@@ -1,0 +1,48 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://mirandaeastwood.github.io/small-stones-layers/-small-stones-/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "\"Small Stones\"" ] },
+    "homepage": [
+      {
+        "id": "https://archiveofthepresent.spokenweb.ca/small-stones-a-work-in-poetry-sound-music-and-typography/",
+        "type": "Text",
+        "label": { "en": [ "\"Small Stones\"" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "https://spokenweb.ca/",
+        "type": "Agent",
+        "label": { "en": [ "SpokenWeb" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://mirandaeastwood.github.io/small-stones-layers/-small-stones-/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 1242.0,
+        "items": [
+          {
+            "id": "https://mirandaeastwood.github.io/small-stones-layers/-small-stones-/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://mirandaeastwood.github.io/small-stones-layers/-small-stones-/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://spokenweb.ca/_/vid/small-stones.mp4",
+                    "type": "Video",
+                    "format": "video/mp4",
+                    "duration": 1242.0
+                },
+                "target": "https://mirandaeastwood.github.io/small-stones-layers/-small-stones-/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
