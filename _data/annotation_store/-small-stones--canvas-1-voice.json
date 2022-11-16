@@ -1,0 +1,1042 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://mirandaeastwood.github.io/small-stones-layers/annotations/-small-stones--canvas-1-voice.json",
+  "type": "AnnotationPage",
+  "label": "Voice",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "-small-stones--canvas-1-voice-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Speaking. Neutral tone, calm, slow and clear. Intentionality likened to a storyteller, with pauses/vocal emphasis set to a \"beat\" derived from the musical swell surrounding the Voice. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mirandaeastwood.github.io/small-stones-layers/-small-stones-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "16.179893,110.963681"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "-small-stones--canvas-1-voice-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Speaking: Voice panned left, continuation of the initial tone. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mirandaeastwood.github.io/small-stones-layers/-small-stones-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "113.314701,295.829218"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "-small-stones--canvas-1-voice-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Second Voice, panned right, speaking, continuation of the initial tone at a lower level, slowly rising in volume as it negotiates the sonic space alongside the first Voice.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mirandaeastwood.github.io/small-stones-layers/-small-stones-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "114.534569,295.829218"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "-small-stones--canvas-1-voice-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Speaking: Voice panned centre, returned to initial position.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mirandaeastwood.github.io/small-stones-layers/-small-stones-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "295.829218,317.298905"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "-small-stones--canvas-1-voice-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "High-cut, Low-cut EQ filter applied; the Voice sounds as though it's coming from a telephone. The tone takes on more authority, more urgency, than before. The vocal emphasis is more charged in the absence of an ambient soundscape, and further charged as the blaring FX is introduced.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mirandaeastwood.github.io/small-stones-layers/-small-stones-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "321.335561,373.545936"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "-small-stones--canvas-1-voice-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Filter removed, Voice speaking clearly, emphasizing syllables, negotiating the space between the tonal blares, at times overlapping.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mirandaeastwood.github.io/small-stones-layers/-small-stones-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "377.737848,392.708962"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "-small-stones--canvas-1-voice-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Barely audible breath.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mirandaeastwood.github.io/small-stones-layers/-small-stones-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "392.797680,393.951010"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "-small-stones--canvas-1-voice-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Speaking, continuation of tone, emphasis on words: \"sharp\", \"swift\", \"and\", \"vessels\", timed with blaring.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mirandaeastwood.github.io/small-stones-layers/-small-stones-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "397.832410,402.822782"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "-small-stones--canvas-1-voice-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Speaking, continuation of tone.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mirandaeastwood.github.io/small-stones-layers/-small-stones-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "406.826169,493.736259"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "-small-stones--canvas-1-voice-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Emphasis: \"deux cent cinquante coups\".",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mirandaeastwood.github.io/small-stones-layers/-small-stones-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "519.730550,523.722847"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "-small-stones--canvas-1-voice-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Vocal skip.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mirandaeastwood.github.io/small-stones-layers/-small-stones-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "547.321759"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "-small-stones--canvas-1-voice-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Speaking. The tone is urgent and forceful, matching the blaring ambience.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mirandaeastwood.github.io/small-stones-layers/-small-stones-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "559.099035,563.734536"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "-small-stones--canvas-1-voice-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Emphasis: \"EV-EH-RE MOHR-NING\"...",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mirandaeastwood.github.io/small-stones-layers/-small-stones-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "566.750938,569.656443"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "-small-stones--canvas-1-voice-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Speaking, continuation of tone.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mirandaeastwood.github.io/small-stones-layers/-small-stones-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "569.856058,573.249511"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "-small-stones--canvas-1-voice-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Emphasis: \"EV-EH-RE MOHR-NING\"...",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mirandaeastwood.github.io/small-stones-layers/-small-stones-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "578.151165,581.300643"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "-small-stones--canvas-1-voice-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Speaking, continuation of tone.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mirandaeastwood.github.io/small-stones-layers/-small-stones-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "581.722053,584.561019"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "-small-stones--canvas-1-voice-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Emphasis: \"EV-EH-RE\"...",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mirandaeastwood.github.io/small-stones-layers/-small-stones-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "588.908187,590.704721"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "-small-stones--canvas-1-voice-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Speaking, continuation of tone.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mirandaeastwood.github.io/small-stones-layers/-small-stones-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "590.970874,596.449193"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "-small-stones--canvas-1-voice-annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Emphasis: \"EV-EH-RE\" morning\".",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mirandaeastwood.github.io/small-stones-layers/-small-stones-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "601.195591,604.367249"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "-small-stones--canvas-1-voice-annotation-19.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Speaking, continuation of tone.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mirandaeastwood.github.io/small-stones-layers/-small-stones-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "605.210067,615.434784"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "-small-stones--canvas-1-voice-annotation-20.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Emphasis: \"Every morning\"...",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mirandaeastwood.github.io/small-stones-layers/-small-stones-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "619.427081,621.046179"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "-small-stones--canvas-1-voice-annotation-21.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Speaking, continuation of tone.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mirandaeastwood.github.io/small-stones-layers/-small-stones-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "622.443483,623.796429"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "-small-stones--canvas-1-voice-annotation-22.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Emphasis: \"Every m-orning\"... ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mirandaeastwood.github.io/small-stones-layers/-small-stones-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "626.369242,633.222686"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "-small-stones--canvas-1-voice-annotation-23.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Emphasis: \"Every m-orning\"...",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mirandaeastwood.github.io/small-stones-layers/-small-stones-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "639.299849,644.733809"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "-small-stones--canvas-1-voice-annotation-24.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Speaking: High-cut, Low-cut EQ filter applied; words begin to break. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mirandaeastwood.github.io/small-stones-layers/-small-stones-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "651.099305,655.934421"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "-small-stones--canvas-1-voice-annotation-25.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Speaking: Filter continues.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mirandaeastwood.github.io/small-stones-layers/-small-stones-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "659.516398,672.668799"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "-small-stones--canvas-1-voice-annotation-26.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Speaking: \"Fff\" sound builds into first sound.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mirandaeastwood.github.io/small-stones-layers/-small-stones-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "678.635066,680.675573"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "-small-stones--canvas-1-voice-annotation-27.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Speaking: Emphasizing words and syllables; a staccato of each line's syllables before the line is laid out in its entirety.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mirandaeastwood.github.io/small-stones-layers/-small-stones-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "681.019354,749.709045"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "-small-stones--canvas-1-voice-annotation-28.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Speaking: \"Shhh\" builds into first word, \"shadow\".",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mirandaeastwood.github.io/small-stones-layers/-small-stones-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "816.358227,817.027769"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "-small-stones--canvas-1-voice-annotation-29.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Speaking: Rapid, the tone remains urgent, pauses in between lines, allowing the whispers to bleed in.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mirandaeastwood.github.io/small-stones-layers/-small-stones-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "817.027769,834.035232"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "-small-stones--canvas-1-voice-annotation-30.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Speaking, words begin to fragment, split, caught up again after brief silences overtaken by whispers.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mirandaeastwood.github.io/small-stones-layers/-small-stones-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "877.584540,883.029590"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "-small-stones--canvas-1-voice-annotation-31.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Speaking, emphasis on: \"small\".",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mirandaeastwood.github.io/small-stones-layers/-small-stones-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "885.059007,885.391699"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "-small-stones--canvas-1-voice-annotation-32.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Speaking, emphasis on: \"stones\".",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mirandaeastwood.github.io/small-stones-layers/-small-stones-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "886.423042,887.471020"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "-small-stones--canvas-1-voice-annotation-33.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Speaking, rapid. Words begin to tumble like an avalanche over the fluttering sax, cascading. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mirandaeastwood.github.io/small-stones-layers/-small-stones-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "888.568902,892.131473"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "-small-stones--canvas-1-voice-annotation-34.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Speaking, emphasis on: \"small\".",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mirandaeastwood.github.io/small-stones-layers/-small-stones-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "894.257925,894.790232"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "-small-stones--canvas-1-voice-annotation-35.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Speaking, emphasis on: \"stones\".",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mirandaeastwood.github.io/small-stones-layers/-small-stones-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "895.461159,896.159811"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "-small-stones--canvas-1-voice-annotation-36.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Speaking, emphasis on: \"flourishing\".",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mirandaeastwood.github.io/small-stones-layers/-small-stones-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "896.947181,897.648606"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "-small-stones--canvas-1-voice-annotation-37.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Speaking, rapid, and fragmented. Emphasis on: \"in a future against\".",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mirandaeastwood.github.io/small-stones-layers/-small-stones-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "898.524693,899.844369"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "-small-stones--canvas-1-voice-annotation-38.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Speaking, emphasis on: \"Babylon\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mirandaeastwood.github.io/small-stones-layers/-small-stones-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "900.886802,901.579909"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "-small-stones--canvas-1-voice-annotation-39.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Speaking, rapid, no pausing, cascading. The only punctuation is the occasional gasp for breath between lines.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mirandaeastwood.github.io/small-stones-layers/-small-stones-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "902.766509,940.696104"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "-small-stones--canvas-1-voice-annotation-40.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Rest.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mirandaeastwood.github.io/small-stones-layers/-small-stones-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "940.696104,946.285320"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "-small-stones--canvas-1-voice-annotation-41.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Speaking: rapid.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mirandaeastwood.github.io/small-stones-layers/-small-stones-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "946.285320,964.760784"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "-small-stones--canvas-1-voice-annotation-42.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Speaking, begins to slow.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mirandaeastwood.github.io/small-stones-layers/-small-stones-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "970.483077,984.156694"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "-small-stones--canvas-1-voice-annotation-43.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Speaking, slows further, pulls away briefly, barely audible under music.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mirandaeastwood.github.io/small-stones-layers/-small-stones-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "989.435398,1001.146137"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "-small-stones--canvas-1-voice-annotation-44.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Speaking, slowing, tone softens.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mirandaeastwood.github.io/small-stones-layers/-small-stones-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1001.146137,1015.529496"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "-small-stones--canvas-1-voice-annotation-45.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Speaking: slowing.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mirandaeastwood.github.io/small-stones-layers/-small-stones-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1019.033846,1050.329019"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "-small-stones--canvas-1-voice-annotation-46.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Speaking, calm, the storytelling tone re-assumed, rising into the center as the \"lead\" Voice.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mirandaeastwood.github.io/small-stones-layers/-small-stones-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1073.639599,1200.395033"
+        }
+      }
+    }
+  ]
+}

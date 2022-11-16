@@ -27,6 +27,14 @@
           
           {
             "type": "AnnotationPage",
+            "id": "https://mirandaeastwood.github.io/small-stones-layers/annotations/-small-stones--canvas-1-voice.json",
+            "label": {
+              "none": ["Voice"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
             "id": "https://mirandaeastwood.github.io/small-stones-layers/annotations/-small-stones--canvas-1-fx.json",
             "label": {
               "none": ["FX"]

@@ -1,0 +1,47 @@
+16.179893	110.963681	Speaking. Neutral tone, calm, slow and clear. Intentionality likened to a storyteller, with pauses/vocal emphasis set to a "beat" derived from the musical swell surrounding the Voice. 
+113.314701	295.829218	Speaking: Voice panned left, continuation of the initial tone. 
+114.534569	295.829218	Second Voice, panned right, speaking, continuation of the initial tone at a lower level, slowly rising in volume as it negotiates the sonic space alongside the first Voice.
+295.829218	317.298905	Speaking: Voice panned centre, returned to initial position.
+321.335561	373.545936	High-cut, Low-cut EQ filter applied; the Voice sounds as though it's coming from a telephone. The tone takes on more authority, more urgency, than before. The vocal emphasis is more charged in the absence of an ambient soundscape, and further charged as the blaring FX is introduced.
+377.737848	392.708962	Filter removed, Voice speaking clearly, emphasizing syllables, negotiating the space between the tonal blares, at times overlapping.
+392.797680	393.951010	Barely audible breath.
+397.832410	402.822782	Speaking, continuation of tone, emphasis on words: "sharp", "swift", "and", "vessels", timed with blaring.
+406.826169	493.736259	Speaking, continuation of tone.
+519.730550	523.722847	Emphasis: "deux cent cinquante coups".
+547.321759	547.321759	Vocal skip.
+559.099035	563.734536	Speaking. The tone is urgent and forceful, matching the blaring ambience.
+566.750938	569.656443	Emphasis: "EV-EH-RE MOHR-NING"...
+569.856058	573.249511	Speaking, continuation of tone.
+578.151165	581.300643	Emphasis: "EV-EH-RE MOHR-NING"...
+581.722053	584.561019	Speaking, continuation of tone.
+588.908187	590.704721	Emphasis: "EV-EH-RE"...
+590.970874	596.449193	Speaking, continuation of tone.
+601.195591	604.367249	Emphasis: "EV-EH-RE" morning".
+605.210067	615.434784	Speaking, continuation of tone.
+619.427081	621.046179	Emphasis: "Every morning"...
+622.443483	623.796429	Speaking, continuation of tone.
+626.369242	633.222686	Emphasis: "Every m-orning"... 
+639.299849	644.733809	Emphasis: "Every m-orning"...
+651.099305	655.934421	Speaking: High-cut, Low-cut EQ filter applied; words begin to break. 
+659.516398	672.668799	Speaking: Filter continues.
+678.635066	680.675573	Speaking: "Fff" sound builds into first sound.
+681.019354	749.709045	Speaking: Emphasizing words and syllables; a staccato of each line's syllables before the line is laid out in its entirety.
+816.358227	817.027769	Speaking: "Shhh" builds into first word, "shadow".
+817.027769	834.035232	Speaking: Rapid, the tone remains urgent, pauses in between lines, allowing the whispers to bleed in.
+877.584540	883.029590	Speaking, words begin to fragment, split, caught up again after brief silences overtaken by whispers.
+885.059007	885.391699	Speaking, emphasis on: "small".
+886.423042	887.471020	Speaking, emphasis on: "stones".
+888.568902	892.131473	Speaking, rapid. Words begin to tumble like an avalanche over the fluttering sax, cascading. 
+894.257925	894.790232	Speaking, emphasis on: "small".
+895.461159	896.159811	Speaking, emphasis on: "stones".
+896.947181	897.648606	Speaking, emphasis on: "flourishing".
+898.524693	899.844369	Speaking, rapid, and fragmented. Emphasis on: "in a future against".
+900.886802	901.579909	Speaking, emphasis on: "Babylon"
+902.766509	940.696104	Speaking, rapid, no pausing, cascading. The only punctuation is the occasional gasp for breath between lines.
+940.696104	946.285320	Rest.
+946.285320	964.760784	Speaking: rapid.
+970.483077	984.156694	Speaking, begins to slow.
+989.435398	1001.146137	Speaking, slows further, pulls away briefly, barely audible under music.
+1001.146137	1015.529496	Speaking, slowing, tone softens.
+1019.033846	1050.329019	Speaking: slowing.
+1073.639599	1200.395033	Speaking, calm, the storytelling tone re-assumed, rising into the center as the "lead" Voice.
