@@ -1,0 +1,294 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://mirandaeastwood.github.io/small-stones-layers/annotations/-small-stones--canvas-1-fx.json",
+  "type": "AnnotationPage",
+  "label": "FX",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "-small-stones--canvas-1-fx-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Rising tone, harsh, distorted, swells then fades.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mirandaeastwood.github.io/small-stones-layers/-small-stones-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "259.410597,292.058715"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "-small-stones--canvas-1-fx-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Deep tone, loud and blaring, like a foghorn. Cuts off the Voice.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mirandaeastwood.github.io/small-stones-layers/-small-stones-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "347.329851,355.403163"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "-small-stones--canvas-1-fx-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Deep tone at a higher pitch, loud and blaring, like a foghorn. Ends on vocal emphasis.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mirandaeastwood.github.io/small-stones-layers/-small-stones-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "363.032887,366.936466"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "-small-stones--canvas-1-fx-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Deep tone at a higher pitch, loud and blaring, like a foghorn. Ends on vocal emphasis.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mirandaeastwood.github.io/small-stones-layers/-small-stones-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "373.545936,377.172273"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "-small-stones--canvas-1-fx-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Various pitches of the foghorn blast continue, slowly building into a rhythm underlaying the Voice.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mirandaeastwood.github.io/small-stones-layers/-small-stones-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "377.726758,673.722322"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "-small-stones--canvas-1-fx-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Foghorn tone on words \"sharp\", \"swift\", \"and\", stretching on after \"vessels\".",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mirandaeastwood.github.io/small-stones-layers/-small-stones-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "397.854590,406.992514"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "-small-stones--canvas-1-fx-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Distorted saxophone screech introduced, regularly punctuating the sound.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mirandaeastwood.github.io/small-stones-layers/-small-stones-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "537.529541,673.411810"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "-small-stones--canvas-1-fx-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Saxophone screech and wail fading.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mirandaeastwood.github.io/small-stones-layers/-small-stones-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "673.411810,680.952816"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "-small-stones--canvas-1-fx-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "High-pitched resonance.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mirandaeastwood.github.io/small-stones-layers/-small-stones-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "680.402489,682.961440"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "-small-stones--canvas-1-fx-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Bass/sax hits, punctuating the Voice.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mirandaeastwood.github.io/small-stones-layers/-small-stones-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "681.370066,686.530249"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "-small-stones--canvas-1-fx-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Bass/sax hits, at shorter intervals.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mirandaeastwood.github.io/small-stones-layers/-small-stones-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "694.000558,699.428280"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "-small-stones--canvas-1-fx-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "High-pitched, brass wailing. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mirandaeastwood.github.io/small-stones-layers/-small-stones-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "792.870213,808.129659"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "-small-stones--canvas-1-fx-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Rapid, uneven ticking fades in.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mirandaeastwood.github.io/small-stones-layers/-small-stones-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "940.696104,966.202447"
+        }
+      }
+    }
+  ]
+}

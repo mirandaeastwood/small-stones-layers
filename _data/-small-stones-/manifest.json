@@ -23,6 +23,16 @@
         "id": "https://mirandaeastwood.github.io/small-stones-layers/-small-stones-/canvas-1/canvas",
         "type": "Canvas",
         "duration": 1242.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://mirandaeastwood.github.io/small-stones-layers/annotations/-small-stones--canvas-1-fx.json",
+            "label": {
+              "none": ["FX"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://mirandaeastwood.github.io/small-stones-layers/-small-stones-/canvas-1/paintings",

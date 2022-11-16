@@ -1,0 +1,14 @@
+259.410597	292.058715	Rising tone, harsh, distorted, swells then fades.
+347.329851	355.403163	Deep tone, loud and blaring, like a foghorn. Cuts off the Voice.
+363.032887	366.936466	Deep tone at a higher pitch, loud and blaring, like a foghorn. Ends on vocal emphasis.
+373.545936	377.172273	Deep tone at a higher pitch, loud and blaring, like a foghorn. Ends on vocal emphasis.
+377.726758	673.722322	Various pitches of the foghorn blast continue, slowly building into a rhythm underlaying the Voice.
+397.854590	406.992514	Foghorn tone on words "sharp", "swift", "and", stretching on after "vessels".
+537.529541	673.411810	Distorted saxophone screech introduced, regularly punctuating the sound.
+673.411810	680.952816	Saxophone screech and wail fading.
+680.402489	682.961440	High-pitched resonance.
+681.370066	686.530249	Bass/sax hits, punctuating the Voice.
+694.000558	699.428280	Bass/sax hits, at shorter intervals.
+792.870213	808.129659	High-pitched, brass wailing. 
+940.696104	966.202447	Rapid, uneven ticking fades in.
+
