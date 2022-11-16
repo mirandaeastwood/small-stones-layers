@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "Audio Layers in \"Small Stones\"" ] },
+    "summary": { "en": [ "This project features annotations which break down the audio layers comprising the complex piece \"Small Stones\" by Kaie Kellough, Kevin Yuen Kit Lo, and Jason Sharp." ] },
+    "items": [
+    ]
+}
