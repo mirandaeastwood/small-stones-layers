@@ -1,0 +1,11 @@
+1.596919	50.159819	Deep tone swells and fades repeatedly, slowly rising in volume, while rhythmic distortion is introduced. The first thirty seconds sets the stereo width of the piece, setting a space for the Voice to fill before it enters the piece.
+30.639722	323.159819	Subtle exchange between tonal swells and the Voice, at times working in parallel but often intersecting.
+111.568071	317.925474	An alternate but similar tone is overlaid onto the first, at times punctuating the Voice.
+526.273481	670.539574	Syncopated bass melody introduced, underlaid beneath all sounds. Plays in waves, rests between riffs, building up the main tone and echoing the vocal fragments. 
+673.411810	680.952816	Saxophone tone, discordantly harmonized, swells and cuts. 
+686.530249	694.000558	Last hit swells into sustained tone.
+699.428280	755.697490	Sax hits develop into chaotic melody beneath Voice, echoing fragments.
+755.697490	1023.092681	Sax fluttering, tonal resonance panned back and forth, left and right alternating, re-establishing the width of the sonic field.
+872.028593	1050.950043	Deep tone underlaid, building a slow melody beneath the Voice and the fluttering; expanding the sound.
+1023.092681	1050.950043	Sax fluttering begins to slow.
+1050.950043	1204.476048	Sax fluttering develops into sustained tones, harmonized. Swelling and retreating like waves, re-establishing depth as the Voice returns.

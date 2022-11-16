@@ -1,0 +1,250 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://mirandaeastwood.github.io/small-stones-layers/annotations/-small-stones--canvas-1-music.json",
+  "type": "AnnotationPage",
+  "label": "Music",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "-small-stones--canvas-1-music-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Deep tone swells and fades repeatedly, slowly rising in volume, while rhythmic distortion is introduced. The first thirty seconds sets the stereo width of the piece, setting a space for the Voice to fill before it enters the piece.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mirandaeastwood.github.io/small-stones-layers/-small-stones-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1.596919,50.159819"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "-small-stones--canvas-1-music-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Subtle exchange between tonal swells and the Voice, at times working in parallel but often intersecting.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mirandaeastwood.github.io/small-stones-layers/-small-stones-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "30.639722,323.159819"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "-small-stones--canvas-1-music-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "An alternate but similar tone is overlaid onto the first, at times punctuating the Voice.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mirandaeastwood.github.io/small-stones-layers/-small-stones-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "111.568071,317.925474"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "-small-stones--canvas-1-music-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Syncopated bass melody introduced, underlaid beneath all sounds. Plays in waves, rests between riffs, building up the main tone and echoing the vocal fragments. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mirandaeastwood.github.io/small-stones-layers/-small-stones-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "526.273481,670.539574"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "-small-stones--canvas-1-music-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Saxophone tone, discordantly harmonized, swells and cuts. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mirandaeastwood.github.io/small-stones-layers/-small-stones-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "673.411810,680.952816"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "-small-stones--canvas-1-music-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Last hit swells into sustained tone.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mirandaeastwood.github.io/small-stones-layers/-small-stones-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "686.530249,694.000558"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "-small-stones--canvas-1-music-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Sax hits develop into chaotic melody beneath Voice, echoing fragments.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mirandaeastwood.github.io/small-stones-layers/-small-stones-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "699.428280,755.697490"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "-small-stones--canvas-1-music-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Sax fluttering, tonal resonance panned back and forth, left and right alternating, re-establishing the width of the sonic field.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mirandaeastwood.github.io/small-stones-layers/-small-stones-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "755.697490,1023.092681"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "-small-stones--canvas-1-music-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Deep tone underlaid, building a slow melody beneath the Voice and the fluttering; expanding the sound.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mirandaeastwood.github.io/small-stones-layers/-small-stones-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "872.028593,1050.950043"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "-small-stones--canvas-1-music-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Sax fluttering begins to slow.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mirandaeastwood.github.io/small-stones-layers/-small-stones-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1023.092681,1050.950043"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "-small-stones--canvas-1-music-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Sax fluttering develops into sustained tones, harmonized. Swelling and retreating like waves, re-establishing depth as the Voice returns.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mirandaeastwood.github.io/small-stones-layers/-small-stones-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1050.950043,1204.476048"
+        }
+      }
+    }
+  ]
+}
