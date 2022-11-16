@@ -1,0 +1,228 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://mirandaeastwood.github.io/small-stones-layers/annotations/-small-stones--canvas-1-whisper.json",
+  "type": "AnnotationPage",
+  "label": "Whisper",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "-small-stones--canvas-1-whisper-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Rising in pitch until it cuts.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mirandaeastwood.github.io/small-stones-layers/-small-stones-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "469.682669,474.462336"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "-small-stones--canvas-1-whisper-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Hectic, folded underneath the main Voice.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mirandaeastwood.github.io/small-stones-layers/-small-stones-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "501.809571,512.610953"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "-small-stones--canvas-1-whisper-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Multiple voices, hectic whispering.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mirandaeastwood.github.io/small-stones-layers/-small-stones-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "518.599399,520.440291"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "-small-stones--canvas-1-whisper-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Consonants of the Voice's \"deux cent cinquante coups\"; repeating.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mirandaeastwood.github.io/small-stones-layers/-small-stones-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "526.317840,530.975520"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "-small-stones--canvas-1-whisper-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Panned left and right.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mirandaeastwood.github.io/small-stones-layers/-small-stones-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "820.150910,821.060266"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "-small-stones--canvas-1-whisper-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"small stones\"; panned left and right.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mirandaeastwood.github.io/small-stones-layers/-small-stones-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "823.433465,824.376091"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "-small-stones--canvas-1-whisper-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Panned left.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mirandaeastwood.github.io/small-stones-layers/-small-stones-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "826.216983,826.860187"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "-small-stones--canvas-1-whisper-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"small-\", panned right.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mirandaeastwood.github.io/small-stones-layers/-small-stones-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "827.348134,827.813902"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "-small-stones--canvas-1-whisper-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Panned left and right, alternating.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mirandaeastwood.github.io/small-stones-layers/-small-stones-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "828.667810,843.661104"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "-small-stones--canvas-1-whisper-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Joined by multiple voices.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://mirandaeastwood.github.io/small-stones-layers/-small-stones-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "843.661104,906.118375"
+        }
+      }
+    }
+  ]
+}

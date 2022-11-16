@@ -35,6 +35,14 @@
           ,
           {
             "type": "AnnotationPage",
+            "id": "https://mirandaeastwood.github.io/small-stones-layers/annotations/-small-stones--canvas-1-whisper.json",
+            "label": {
+              "none": ["Whisper"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
             "id": "https://mirandaeastwood.github.io/small-stones-layers/annotations/-small-stones--canvas-1-music.json",
             "label": {
               "none": ["Music"]

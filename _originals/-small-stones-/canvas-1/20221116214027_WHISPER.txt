@@ -1,0 +1,10 @@
+469.682669	474.462336	Rising in pitch until it cuts.
+501.809571	512.610953	Hectic, folded underneath the main Voice.
+518.599399	520.440291	Multiple voices, hectic whispering.
+526.317840	530.975520	Consonants of the Voice's "deux cent cinquante coups"; repeating.
+820.150910	821.060266	Panned left and right.
+823.433465	824.376091	"small stones"; panned left and right.
+826.216983	826.860187	Panned left.
+827.348134	827.813902	"small-", panned right.
+828.667810	843.661104	Panned left and right, alternating.
+843.661104	906.118375	Joined by multiple voices.
